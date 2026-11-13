@@ -1,0 +1,1 @@
+export const STATS_UPDATE_INTERVAL_MS = 100;
